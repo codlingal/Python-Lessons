@@ -1,0 +1,5 @@
+answer = input("When is summer time?")
+if answer == "May, June, July":
+    print("correct!")
+else:
+    print(f"The answer is 'May, June, July, not {answer!r}")
