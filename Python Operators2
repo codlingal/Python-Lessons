@@ -1,0 +1,12 @@
+#Write program to check whether the given values have boolean values or not.
+
+
+a = 26
+b = 27
+c = 23
+
+
+if a > b or a < c:
+    print("I am using or operator")
+elif a < b and a > c:
+    print ("I am using and operator")
