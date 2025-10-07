@@ -1,0 +1,13 @@
+#Write a program to illustrate the use of 'is' identity operator
+
+a = "oyin"
+b = "hello earth"
+
+
+if(a in b):
+    print("true")
+
+if (a not in b):
+    print("false")
+
+    
